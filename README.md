@@ -1,6 +1,6 @@
 # to_do_list
 
-A new Flutter project.
+A todo application with ability to add , edit and delete a todo.
 
 ## Getting Started
 
